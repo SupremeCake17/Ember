@@ -1,0 +1,19 @@
+{
+  "name": "@supremecake17/ember",
+  "version": "1.0.0",
+  "description": "A proxy that is used to unblock any website you like, including tons of games and apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supremecake17/Ember.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Supremecake17/Ember/issues"
+  },
+  "homepage": "https://github.com/Supremecake17/Ember#readme"
+}
